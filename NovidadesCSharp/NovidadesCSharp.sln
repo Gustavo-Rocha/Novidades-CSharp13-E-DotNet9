@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novidades_JsonSchemaExporte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonObject_Ordered_Itens", "..\JsonObject_Ordered_Itens\JsonObject_Ordered_Itens.csproj", "{5B60689A-71DB-427B-BA2B-90CFB96B4CF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novidade_OrderedDictionary", "..\Novidade_OrderedDictionary\Novidade_OrderedDictionary.csproj", "{04256397-098E-4B1B-BFD5-DE83ACFF69C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5B60689A-71DB-427B-BA2B-90CFB96B4CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B60689A-71DB-427B-BA2B-90CFB96B4CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B60689A-71DB-427B-BA2B-90CFB96B4CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04256397-098E-4B1B-BFD5-DE83ACFF69C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04256397-098E-4B1B-BFD5-DE83ACFF69C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04256397-098E-4B1B-BFD5-DE83ACFF69C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04256397-098E-4B1B-BFD5-DE83ACFF69C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

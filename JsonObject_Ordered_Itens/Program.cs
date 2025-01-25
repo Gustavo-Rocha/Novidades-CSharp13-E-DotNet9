@@ -36,6 +36,7 @@ internal class Program
         Console.WriteLine("Demonstrando o uso dos metodos IndexOf e Insert com JsonObject...");
         var posLivroChave = SerieDeLivros.IndexOf("Livro");
         SerieDeLivros.Insert(posLivroChave, "versaoAtualSerie", "2.1.0");
+        //SerieDeLivros.Insert(Index escolhido, "Nome da Propriedade Nova", "Valor da Propriedade");
 
         PrintJsonObjectContent(SerieDeLivros);
 
