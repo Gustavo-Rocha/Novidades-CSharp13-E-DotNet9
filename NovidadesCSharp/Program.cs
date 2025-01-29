@@ -28,7 +28,6 @@ internal class Program
             Console.WriteLine();
             Console.WriteLine(JsonSerializer.Serialize(livro, JsonSerializerOptions.Web));
         }
-
     }
 }
 
